@@ -10,7 +10,7 @@
         "input",
         "autocomplete"
     ],
-    homepage: "http://www.runningcoder.org/jquerytypeahead/",
+    "homepage": "http://www.runningcoder.org/jquerytypeahead/",
     "support": {
         "issues": "https://github.com/running-coder/jquery-typeahead/issues"
     },
